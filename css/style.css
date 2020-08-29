@@ -10,7 +10,7 @@ canvas{
 #particles-js{ 
     position:absolute; 
     width: 100%;
-    height: 100%; 
+    height: 61%; 
     background-color: #000000; 
     background-image: url(""); 
     background-repeat: no-repeat; 
@@ -54,4 +54,14 @@ canvas{
 }
 .nombre{
     text-shadow: 3px 2px 5px #757c7c;
+}
+.bg-rojo{
+    color: #c75d5d;
+}
+@media (max-width:360px){
+    .tarjeta{
+        padding-top: 0%;
+        position: absolute;
+        left: 1%;
+    }
 }
