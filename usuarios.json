@@ -1,0 +1,32 @@
+[
+{
+    "id": "1",
+    "nombre": "URIEL",
+    "telefono": "7464363464",
+    "region": "VALLE DE MEXICO"
+},
+{
+    "id": "2",
+    "nombre": "VICTOR",
+    "telefono": "7464363465",
+    "region": "VALLE DE TOLUCA"
+},
+{
+    "id": "3",
+    "nombre": "ARMANDO",
+    "telefono": "7464334323",
+    "region": "VALLE DE MEXICO"
+},
+{
+    "id": "4",
+    "nombre": "JOSE",
+    "telefono": "7464352343",
+    "region": "VALLE DE MEXICO"
+},
+{
+    "id": "5",
+    "nombre": "ALMA",
+    "telefono": "74643099070",
+    "region": "VALLE DE TOLUCA"
+}
+]
